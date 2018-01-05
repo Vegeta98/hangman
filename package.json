@@ -1,0 +1,24 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vegeta98/hangman.git"
+  },
+  "author": "Marko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vegeta98/hangman/issues"
+  },
+  "homepage": "https://github.com/Vegeta98/hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "is-letter": "^1.1.1",
+    "letter": "0.0.1"
+  }
+}
